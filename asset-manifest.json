@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//github.com/Ivounda16/monsters-rolodex/static/css/main.4084e9ff.chunk.css",
+    "main.js": "//github.com/Ivounda16/monsters-rolodex/static/js/main.ff466518.chunk.js",
+    "main.js.map": "//github.com/Ivounda16/monsters-rolodex/static/js/main.ff466518.chunk.js.map",
+    "runtime-main.js": "//github.com/Ivounda16/monsters-rolodex/static/js/runtime-main.ac41e06c.js",
+    "runtime-main.js.map": "//github.com/Ivounda16/monsters-rolodex/static/js/runtime-main.ac41e06c.js.map",
+    "static/js/2.b6f2604e.chunk.js": "//github.com/Ivounda16/monsters-rolodex/static/js/2.b6f2604e.chunk.js",
+    "static/js/2.b6f2604e.chunk.js.map": "//github.com/Ivounda16/monsters-rolodex/static/js/2.b6f2604e.chunk.js.map",
+    "index.html": "//github.com/Ivounda16/monsters-rolodex/index.html",
+    "precache-manifest.cffef490419d4dd9dff87d2e8887a87f.js": "//github.com/Ivounda16/monsters-rolodex/precache-manifest.cffef490419d4dd9dff87d2e8887a87f.js",
+    "service-worker.js": "//github.com/Ivounda16/monsters-rolodex/service-worker.js",
+    "static/css/main.4084e9ff.chunk.css.map": "//github.com/Ivounda16/monsters-rolodex/static/css/main.4084e9ff.chunk.css.map",
+    "static/js/2.b6f2604e.chunk.js.LICENSE.txt": "//github.com/Ivounda16/monsters-rolodex/static/js/2.b6f2604e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac41e06c.js",
+    "static/js/2.b6f2604e.chunk.js",
+    "static/css/main.4084e9ff.chunk.css",
+    "static/js/main.ff466518.chunk.js"
+  ]
+}
